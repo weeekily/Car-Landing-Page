@@ -1,0 +1,10 @@
+.error {
+  color: red;
+  font-style: italic;
+  font-size: 12px;
+  margin-top: -8px; /* Adjust this value as needed */
+  display: flex; /* Ensure error messages are displayed as blocks */
+  margin-top: -px;
+  opacity: 90%;
+  position: absolute;
+}
